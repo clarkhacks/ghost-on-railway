@@ -1,6 +1,6 @@
 {
   "name": "ghost",
-  "version": "5.4.0",
+  "version": "5.59.4",
   "description": "Deploy Ghost v5 on Railway",
   "main": "index.js",
   "author": "farazpatankar",
